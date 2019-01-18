@@ -33,8 +33,9 @@ body {
 
 .top {
     height: 40vh;
-    background-color: #0069c0;
+    background-color: #1565c0;
     position: relative;
+    border-top: 40px solid #003c8f;
 }
 
 .budget {
@@ -67,7 +68,7 @@ body {
     text-transform: uppercase;
 }
 
-.budget__income {
+.budget__income     {
     margin-bottom: 10px;
     background-color: #1de9b6;
 }
